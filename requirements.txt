@@ -1,0 +1,4 @@
+
+fastapi
+uvicorn
+# Add any other dependencies your FastAPI server needs
